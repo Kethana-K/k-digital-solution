@@ -1,46 +1,22 @@
-﻿# K Digital Solutions 💻
+﻿# Keshavi Digital Solutions
 
-**Building Digital Experiences for Modern Businesses**
+Premium digital design, software and technology services for ambitious businesses.
 
-K Digital Solutions helps businesses build their online presence through modern websites, web applications, and digital solutions.
+## Website
 
-## 🚀 Our Services
+Built with React and Vite. The production build is generated with `npm run build` and can be previewed locally with `npm run preview`.
 
-- Website Development
-- Web Application Development
-- Responsive UI Design
-- Backend Development
-- API Integration
-- Digital Solutions for Businesses
+## Pages
 
-## 🛠️ Tech Stack
+Home, About, Services (22 service categories and individual detail pages), Portfolio (concept work clearly labeled), Case Studies, Pricing, Process, Contact, Blog and FAQ.
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Vite
-- Node.js
-- Express.js
-- MongoDB
+## Contact
 
-## 🌟 Featured Project: SpeakUp
+- WhatsApp: +91 9347400928
+- Business email: hello@keshavidigitalsolutions.com
 
-SpeakUp is a demo project showcasing our web development capabilities and user-friendly design.
+The enquiry form validates the supplied details and opens WhatsApp or the visitor’s email app to review and send. The website does not persist submissions to a server or database.
 
-**Live Demo:** Coming soon.
+## Brand and assets
 
-## 🎯 Our Mission
-
-To transform business ideas into practical, accessible, and user-friendly digital experiences.
-
-## 📬 Connect With Us
-
-- **Instagram:** [@k_digital_solution](https://www.instagram.com/k_digital_solution/)
-- **GitHub:** [Kethana-K](https://github.com/Kethana-K)
-
-For website and application development inquiries, connect with us on Instagram.
-
----
-
-*Turning ideas into digital experiences.*
+The Orbital Signal identity includes SVG and PNG logo variations, a favicon and social profile artwork in `public/`.
